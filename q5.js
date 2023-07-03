@@ -19,3 +19,5 @@ function Child() {
 	);
   }
   
+  //  the Parent component acts as a container for its child components, which in this case is the Child component. 
+  // doing this provides a way to create modular, reusable, and easily understandable code. It also allows for passing data or functionality between components using props, which enables dynamic and flexible behavior throughout the application.
